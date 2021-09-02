@@ -1,0 +1,1 @@
+cosnoel.log("Hello in background.js")
