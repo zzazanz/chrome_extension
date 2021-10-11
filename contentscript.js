@@ -1,1 +1,0 @@
-console.log("Hello in contentscript.js")
